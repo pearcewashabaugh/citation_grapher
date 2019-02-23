@@ -1,0 +1,5 @@
+name: citation_grapher
+channels:
+- defaults
+prefix: /home/Pearce/miniconda3/envs/citation_grapher
+
